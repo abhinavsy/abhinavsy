@@ -1,22 +1,26 @@
-<h1 align="center">Hi 👋 I'm Abhinav</h1>
-<h3 align="center">Backend Developer | Python | Django | API Development</h3>
+<h1 align="center">Hi 👋, I'm Abhinav</h1>
+<h3 align="center">Backend Developer | Python | Django | API Engineer</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Python+Backend+Developer;Django+Developer;REST+API+Engineer;System+Design+Learner&center=true&width=500&height=45">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Python+Backend+Developer;Django+REST+API+Engineer;FastAPI+Developer;System+Design+Learner&center=true&width=500&height=45">
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=abhinavsy&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
 * 💻 Backend Developer specializing in **Python & Django**
-* ⚙️ Experienced in building **REST APIs and backend systems**
-* 🏦 Working on **banking and financial backend platforms**
-* 📚 Currently learning **System Design and scalable architectures**
+* ⚙️ Building **REST APIs and scalable backend systems**
+* 🏦 Working on **banking & financial backend platforms**
+* 📚 Currently learning **System Design & Microservices**
 
 ---
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 
 ### Backend
 
@@ -30,7 +34,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-orange?style=for-the-badge\&logo=mysql)
 ![Redis](https://img.shields.io/badge/Redis-red?style=for-the-badge\&logo=redis)
 
-### Tools
+### DevOps
 
 ![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge\&logo=docker)
 ![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge\&logo=linux)
@@ -39,20 +43,20 @@
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
 ### 🔹 KYC Onboarding Backend
 
-Backend system used for digital customer onboarding.
+Digital onboarding backend for banking systems.
 
 Features
 
 * Customer onboarding APIs
 * Document verification workflow
-* Banking system integrations
+* Banking integrations
 * Workflow automation
 
-Tech Stack
+Tech
 
 Python • Django • PostgreSQL • Redis
 
@@ -60,13 +64,13 @@ Python • Django • PostgreSQL • Redis
 
 ### 🔹 Payment Gateway Integration
 
-Handles payment gateway callbacks and financial transactions.
+Handles payment callbacks and transaction verification.
 
 Features
 
-* Payment callback processing
-* Transaction verification
-* Error handling and retry logic
+* Payment callback APIs
+* Transaction validation
+* Error recovery logic
 
 Tech
 
@@ -74,15 +78,15 @@ Django • REST APIs • PostgreSQL
 
 ---
 
-### 🔹 Authentication System
+### 🔹 Authentication API
 
-Secure authentication backend.
+Secure authentication system.
 
 Features
 
 * JWT authentication
-* Secure login APIs
-* User management
+* Login APIs
+* Secure access control
 
 Tech
 
@@ -90,29 +94,47 @@ Django • Django REST Framework
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=abhinavsy&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=abhinavsy&show_icons=true&theme=tokyonight"/>
+
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinavsy&layout=compact&theme=tokyonight"/>
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abhinavsy&layout=compact&theme=tokyonight"/>
+
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=abhinavsy&theme=tokyonight"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abhinavsy&theme=tokyonight"/>
+
 </p>
 
 ---
 
-## 🌐 Portfolio
+# 📈 Contribution Graph
+
+[![Abhinav's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abhinavsy\&theme=github-dark)](https://github.com/abhinavsy)
+
+---
+
+# 🐍 Contribution Snake
+
+![snake gif](https://github.com/abhinavsy/abhinavsy/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+# 🌐 Portfolio
 
 Coming Soon 🚀
 
 ---
 
-## 📫 Connect With Me
+# 📫 Connect With Me
 
 GitHub: https://github.com/abhinavsy
 
