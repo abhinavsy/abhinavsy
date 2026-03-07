@@ -1,22 +1,22 @@
 <h1 align="center">Hi 👋, I'm Abhinav</h1>
-<h3 align="center">Backend Developer | Python | Django | API Engineer</h3>
+<h3 align="center">Backend Developer | Python | Django | REST API Engineer</h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Python+Backend+Developer;Django+REST+API+Engineer;FastAPI+Developer;System+Design+Learner&center=true&width=500&height=45">
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=abhinavsy&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=abhinavsy&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
 
 ---
 
 # 🚀 About Me
 
-* 💻 Backend Developer specializing in **Python & Django**
-* ⚙️ Building **REST APIs and scalable backend systems**
-* 🏦 Working on **banking & financial backend platforms**
-* 📚 Currently learning **System Design & Microservices**
+* 💻 Backend developer specializing in **Python & Django**
+* ⚙️ Building **scalable REST APIs**
+* 🏦 Experience working with **financial & banking backend systems**
+* 📚 Learning **System Design, Microservices, and distributed systems**
 
 ---
 
@@ -28,13 +28,13 @@
 ![Django](https://img.shields.io/badge/Django-green?style=for-the-badge\&logo=django)
 ![FastAPI](https://img.shields.io/badge/FastAPI-teal?style=for-the-badge\&logo=fastapi)
 
-### Database
+### Databases
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge\&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/MySQL-orange?style=for-the-badge\&logo=mysql)
 ![Redis](https://img.shields.io/badge/Redis-red?style=for-the-badge\&logo=redis)
 
-### DevOps
+### DevOps / Tools
 
 ![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge\&logo=docker)
 ![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge\&logo=linux)
@@ -53,7 +53,7 @@ Features
 
 * Customer onboarding APIs
 * Document verification workflow
-* Banking integrations
+* Banking API integrations
 * Workflow automation
 
 Tech
@@ -64,13 +64,13 @@ Python • Django • PostgreSQL • Redis
 
 ### 🔹 Payment Gateway Integration
 
-Handles payment callbacks and transaction verification.
+Handles payment callbacks and financial transactions.
 
 Features
 
 * Payment callback APIs
 * Transaction validation
-* Error recovery logic
+* Error handling & retry logic
 
 Tech
 
@@ -85,8 +85,8 @@ Secure authentication system.
 Features
 
 * JWT authentication
-* Login APIs
-* Secure access control
+* Secure login APIs
+* User access control
 
 Tech
 
@@ -124,13 +124,13 @@ Django • Django REST Framework
 
 # 🐍 Contribution Snake
 
-![snake gif](https://github.com/abhinavsy/abhinavsy/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/abhinavsy/abhinavsy/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
 # 🌐 Portfolio
 
-Coming Soon 🚀
+Portfolio Website: Coming Soon 🚀
 
 ---
 
@@ -144,4 +144,4 @@ Email: Add your email
 
 ---
 
-⭐ Always learning and building scalable backend systems.
+⭐ *Always learning and building scalable backend systems.*
